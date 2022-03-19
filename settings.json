@@ -5,30 +5,30 @@
      "namabot": "Alluka Zoldyck",
      "nomerbot": "6285822705721",
      "gender" : "Female",
-     "copyright" : "Extream",
+     "copyright" : "By Alwan Karsa",
      "namaDocument": "Alluka Zoldyck",
      "joinGcExtream": false,
 
      "publik": true,
      "forwarding": false,
-     "Loading": false,
+     "Loading": true,
      "antitroli" : false,
      
      "autovn" : true,
      "autosticker" : true,
      "autorespon" : false,
      "autotyping" : false,
-     "autoread" : true,
+     "autoread" : false,
      "autoblockcmd" : false, 
      "autobio" : false,
      "autoLevel" : true,
      "AutoClearChat": false,
-     "totalForward" : 1000000,
+     "totalForward" : 1000,
      "explain": false,
      "jumlahTroli": 2022,
      
      "Jika ada yang telpon, bot bakal kirim bug  ke penelpon jika aktikan fitur sendbug": "ke true",
-       "Anticall": true,
+       "Anticall": false,
       "sendbug": true,
      
      "SetFunction": {
@@ -64,15 +64,15 @@
      "background": "https://tinyurl.com/yxvl8h3a"
      },    
      
-     "setMenu": "document",    
+     "setMenu": "catalog",    
       "setBc":  "lokasi",  
      "setReply": "web",  
      "setQuoted": "ftoko",
      
      "gamewaktu": 60,
-	 "limitCount": 30,
+	 "limitCount": 50,
 	 "gcount": {
-	 "prem": 60,
+	 "prem": 100,
 	 "user": 20
 }
     
